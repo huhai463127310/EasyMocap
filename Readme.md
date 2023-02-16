@@ -55,6 +55,9 @@ This part is the basic code for fitting SMPL[^loper2015] with 2D keypoints estim
     <sup>The raw video is from <a href="https://www.youtube.com/watch?v=23EfsN7vEOA">Youtube</a>.</sup>
 </div>
 
+**More examples:**  
+[https://www.bilibili.com/video/BV1KA411z7ww](https://www.bilibili.com/video/BV1KA411z7ww)
+
 ### Internet video with a mirror
 
 [![report](https://img.shields.io/badge/CVPR21-mirror-red)](https://arxiv.org/pdf/2104.00340.pdf) [![quickstart](https://img.shields.io/badge/quickstart-green)](https://github.com/zju3dv/Mirrored-Human)
@@ -65,6 +68,9 @@ This part is the basic code for fitting SMPL[^loper2015] with 2D keypoints estim
     <sup>The raw video is from <a href="https://www.youtube.com/watch?v=KOCJJ27hhIE">Youtube</a>.</sup>
 </div>
 
+**More exapmles**  
+[https://www.bilibili.com/video/BV15e4y1w7QR](https://www.bilibili.com/video/BV15e4y1w7QR)  
+[https://www.bilibili.com/video/BV1hb411R7EL](https://www.bilibili.com/video/BV1hb411R7EL)    
 
 ### Multiple Internet videos with a specific action (Coming soon)
 
